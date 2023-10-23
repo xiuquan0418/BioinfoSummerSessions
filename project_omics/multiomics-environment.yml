@@ -1,0 +1,23 @@
+name: sc2021-multiomics
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - scanpy
+  - matplotlib
+  - rpy2==3.4.2
+  - anndata2ri==1.0.6
+  - bioconductor-chromvar
+  - bioconductor-genomicranges
+  - bioconductor-singlecellexperiment
+  - bioconductor-mofa2
+  - bioconductor-bsgenome.hsapiens.ucsc.hg38
+  - bioconductor-scran
+  - bioconductor-ensdb.hsapiens.v86
+  - r-seurat
+  - r-signac
+  - notebook
+  - pip
+  - pip:
+    - muon==0.1.0
+    - mofapy2==0.6.4

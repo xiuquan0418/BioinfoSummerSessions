@@ -1,0 +1,22 @@
+title: Computational RNA Biology
+description: SIB / NCCR
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+markdown: CommonMarkGhPages
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+  - project_velocity/README.md
+  - project_spatial/README.md
+  - project_omics/README.md
+  - project_dnn/README.md
