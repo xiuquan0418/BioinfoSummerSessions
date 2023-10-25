@@ -36,7 +36,7 @@ The main goal will be to identify non-coding genomic regions where chromatin acc
 
 - clone the course code repository locally
 ```
-git clone https://github.com/NBISweden/single-cell_sib_scilifelab_2021.git
+git clone https://github.com/xiuquan0418/BioinfoSummerSessions.git
 ```
 
 - Open the Jupyter notebooks from the JupyterHub GUI
@@ -47,12 +47,12 @@ git clone https://github.com/NBISweden/single-cell_sib_scilifelab_2021.git
 
 - clone the course code repository locally
 ```
-git clone https://github.com/NBISweden/single-cell_sib_scilifelab_2021.git
+git clone https://github.com/xiuquan0418/BioinfoSummerSessions.git
 ```
 
 - create a clone of our conda environment named `sc2021-multiomics` (if needed [install miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) first):
 ```
-cd single-cell_sib_scilifelab_2021/project_omics
+cd BioinfoSummerSessions/project_omics
 conda env create --file multiomics-environment.yml
 ```
 
@@ -112,10 +112,10 @@ Your main goal will be to identify non-coding genomic regions where chromatin ac
 
 In the project folder, you will find a template Jupyter Notebook guiding you through the steps for the integration project:
 
-* Group 1: [`multiomics_unmatched.ipynb`](https://github.com/NBISweden/single-cell_sib_scilifelab_2021/blob/main/project_omics/multiomics_unmatched.ipynb)
-* Group 2: [`multiomics_matched.ipynb`](https://github.com/NBISweden/single-cell_sib_scilifelab_2021/blob/main/project_omics/multiomics_matched.ipynb)
+* Group 1: [`multiomics_unmatched.ipynb`](https://github.com/xiuquan0418/BioinfoSummerSessions/blob/main/project_omics/multiomics_unmatched.ipynb)
+* Group 2: [`multiomics_matched.ipynb`](https://github.com/xiuquan0418/BioinfoSummerSessions/blob/main/project_omics/multiomics_matched.ipynb)
 
-Because we will need to use both tools in R and in python, we provide an additional notebook illustrating how to use R code in jupyter environment using the [RPy2](https://rpy2.github.io/) framework - [`rpy2_interoperability_examples.ipynb`](https://github.com/NBISweden/single-cell_sib_scilifelab_2021/blob/main/project_omics/rpy2_interoperability_examples.ipynb)). 
+Because we will need to use both tools in R and in python, we provide an additional notebook illustrating how to use R code in jupyter environment using the [RPy2](https://rpy2.github.io/) framework - [`rpy2_interoperability_examples.ipynb`](https://github.com/xiuquan0418/BioinfoSummerSessions/blob/main/project_omics/rpy2_interoperability_examples.ipynb). 
 
 <!-- 
 ### Milestone 1:

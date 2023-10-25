@@ -8,15 +8,15 @@ Still subject to minor changes...
 
 ### Day1 (Monday):
 * 09h00 – 09h20 : Welcome from the organizers
-* 09h20 – 10h00 : [Introductory lecture](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/lectures/single_cell.pdf) (Dr Paulo Czarnewski)
+* 09h20 – 10h00 : [Introductory lecture](https://xiuquan0418.github.io/BioinfoSummerSessions/lectures/single_cell.pdf) (Dr Paulo Czarnewski)
 * 10h00 – 10h10 : Break
-* 10h10 – 11h10 : [Spatial transcriptomics](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/lectures/spatial_transcriptomics.pdf) (Alma Andersson)
+* 10h10 – 11h10 : [Spatial transcriptomics](https://xiuquan0418.github.io/BioinfoSummerSessions/lectures/spatial_transcriptomics.pdf) (Alma Andersson)
 * 11h10 – 11h15 : Short break
-* 11h15 – 12h15 : [RNA velocity lecture](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/lectures/rna_velocity.pdf) (Volker Bergen)
+* 11h15 – 12h15 : [RNA velocity lecture](https://xiuquan0418.github.io/BioinfoSummerSessions/lectures/rna_velocity.pdf) (Volker Bergen)
 * 12h15 – 13h15 : Lunch break
-* 13h15 – 14h15 : [Multi-omics integration lecture](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/lectures/multi_omics.pdf) (Emma Dann)
+* 13h15 – 14h15 : [Multi-omics integration lecture](https://xiuquan0418.github.io/BioinfoSummerSessions/lectures/multi_omics.pdf) (Emma Dann)
 * 14h15 – 14h20 : Short break
-* 14h20 – 15h20 : [Deep learning lecture](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/lectures/deep_learning.pdf) (Panagiotis Papasaikas)
+* 14h20 – 15h20 : [Deep learning lecture](https://xiuquan0418.github.io/BioinfoSummerSessions/lectures/deep_learning.pdf) (Panagiotis Papasaikas)
 * 15h20 – 15h30 : Break
 * *15h30 – 17h00 : Warm up session (tutorials)
 
@@ -41,7 +41,7 @@ Still subject to minor changes...
 ### Day4 (Thursday):
 * *09h00 – 12h15 : Recap of the previous day - groups project (including a break)
 * 12h15 – 13h30 : Lunch break
-* 13h30 – 14h30 : [Interactive exploratory analysis](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/lectures/visualization_isee.pdf) with [iSEE](https://bioconductor.org/packages/iSEE/) (Dr Charlotte Soneson)
+* 13h30 – 14h30 : [Interactive exploratory analysis](https://xiuquan0418.github.io/BioinfoSummerSessions/lectures/visualization_isee.pdf) with [iSEE](https://bioconductor.org/packages/iSEE/) (Dr Charlotte Soneson)
 * *14h30 – 17h00 : Groups project: slides preparation (including a break)
 
 

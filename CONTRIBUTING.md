@@ -3,8 +3,8 @@
 ### Clone Github repository
 ```bash
 # Clone excelerate-scRNAseq
-git clone https://github.com/NBISweden/scrnaseq-sib-scilifelab.git
-cd scrnaseq-sib-scilifelab
+git clone https://github.com/xiuquan0418/BioinfoSummerSessions.git
+cd BioinfoSummerSessions
 
 # Checkout feature branch to work on
 git checkout -b session-example
@@ -52,7 +52,7 @@ _Note Git commit good practices_
 ## Go to GitHub to make a pull request to master branch when ready
 
 #### Course website
-https://nbisweden.github.io/scrnaseq-sib-scilifelab/
+https://xiuquan0418.github.io/BioinfoSummerSessions/
 
 #### Questions, feedback etc. 
 Create an issue or contact Åsa Björklund <asa.bjorklund@scilifelab.se>

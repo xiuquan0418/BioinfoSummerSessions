@@ -13,28 +13,28 @@ The goal of this joint school is to provide PhD students and postdocs with theor
 
 <div style="width:100%; height:150px; text-align: center">
 
-  <a href="/single-cell_sib_scilifelab_2021/project_spatial/README.html">
+  <a href="/BioinfoSummerSessions/project_spatial/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
   <img border="0" height="100px" src="logos/spatial_transcriptomics.png"><br/>
   Spatial<br/>transcriptomics
   </div>
   </a>
 
-  <a href="/single-cell_sib_scilifelab_2021/project_velocity/README.html">
+  <a href="/BioinfoSummerSessions/project_velocity/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
   <img border="0" height="100px"  src="logos/rna_velocity.png"><br/>
   RNA<br/>velocity
   </div>
   </a>
 
-  <a href="/single-cell_sib_scilifelab_2021/project_omics/README.html">
+  <a href="/BioinfoSummerSessions/project_omics/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
   <img border="0" height="100px"  src="logos/omics_integration.png"><br/>
   Omics<br/>integration
   </div>
   </a>
 
-  <a href="/single-cell_sib_scilifelab_2021/project_dnn/README.html">
+  <a href="/BioinfoSummerSessions/project_dnn/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
   <img border="0" height="100px" src="logos/deep_learning.png"><br/>
   Deep<br/>learning
@@ -131,4 +131,4 @@ At the end of this school, the participants should be able to:
 
 **Additional information**
 
-For more information, please contact [training@sib.swiss](mailto://training@sib.swiss).
+For more information, please contact [xwang@tougaloo.edu](mailto://xwang@tougaloo.edu).

@@ -65,7 +65,7 @@ For the purposes of this course focus on lectures 8.1-8.7, 9.1-9.7, 10.3-10.7, 1
 
 For the complete course schedule please refer to:
 
-([Course Schedule](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/schedule.html))
+([Course Schedule](https://github.com/xiuquan0418/BioinfoSummerSessions/schedule.html))
 
 
 <br/>
