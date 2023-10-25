@@ -4,7 +4,7 @@ Joint SciLifeLab-SIB Summer School
 
 ***
 
-30.08.2021 - 03.09.2021 - ONLINE
+30.08.2023 - 03.09.2023 - ONLINE
 
 <br/>
 
@@ -22,28 +22,28 @@ The goal of this joint school is to provide PhD students and postdocs with theor
   
   <a href="/BioinfoSummerSessions/project_spatial/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
-  <!-- <img border="0" height="100px" src="logos/spatial_transcriptomics.png"><br/> -->
+  <img border="0" height="100px" src="https://www.svgrepo.com/show/158264/schedule.svg"><br/>
   Spatial<br/>transcriptomics
   </div>
   </a>
 
   <a href="/BioinfoSummerSessions/project_velocity/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
-  <img border="0" height="100px"  src="/BioinfoSummerSessions/logos/rna_velocity.png"><br/>
+  <img border="0" height="100px"  src="https://www.svgrepo.com/show/158264/schedule.svg"><br/>
   RNA<br/>velocity
   </div>
   </a>
 
   <a href="BioinfoSummerSessions/project_omics/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
-  <img border="0" height="100px"  src="/BioinfoSummerSessions/logos/omics_integration.png"><br/>
+  <img border="0" height="100px"  src="https://www.svgrepo.com/show/158264/schedule.svg"><br/>
   Omics<br/>integration
   </div>
   </a>
 
   <a href="BioinfoSummerSessions/project_dnn/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
-  <img border="0" height="100px" src="/BioinfoSummerSessions/logos/deep_learning.png"><br/>
+  <img border="0" height="100px" src="https://www.svgrepo.com/show/158264/schedule.svg"><br/>
   Deep<br/>learning
   </div>
   </a>
