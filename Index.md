@@ -1,10 +1,10 @@
 
 # Advanced topics in Single Cell Omics
-Joint Brown Pre-College Summer School
+Joint SciLifeLab-SIB Summer School
 
 ***
 
-19.06.2023 - 22.07.2023 - ONSITE
+30.08.2021 - 03.09.2021 - ONLINE
 
 <br/>
 
