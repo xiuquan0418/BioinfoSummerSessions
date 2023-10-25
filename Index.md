@@ -15,7 +15,7 @@ The goal of this joint school is to provide PhD students and postdocs with theor
 
   <a href="/BioinfoSummerSessions/project_spatial/README.html">
   <div class="zoom" style="width:150px;height:100px;padding:5px 5px;font-size:12pt;font-family:Helvetica;float:left;text-align:center;">
-  <img border="0" height="100px" src="/BioinfoSummerSessions/logos/spatial_transcriptomics.png"><br/>
+  <img border="0" height="100px" src="https://www.svgrepo.com/show/158264/schedule.svg"><br/>
   Spatial<br/>transcriptomics
   </div>
   </a>
