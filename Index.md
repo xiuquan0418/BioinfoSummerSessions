@@ -11,6 +11,9 @@ Joint SciLifeLab-SIB Summer School
 In recent years, single-cell transcriptomics has become a widely used technology to study heterogeneous and dynamic biological systems. A large number of new tools and approaches have been developed for analyzing this new type of data.
 The goal of this joint school is to provide PhD students and postdocs with theoretical and mostly hands-on knowledge on selected advanced topics in Single Cell analysis. In particular, the participants will be divided into small groups to develop mini projects. The following topics have been selected:
 
+[![Spatial transcriptomics](logos/spatial_transcriptomics.png)](/BioinfoSummerSessions/project_spatial/README.html)
+
+
 <div style="width:100%; height:150px; text-align: center">
 
   <a href="/BioinfoSummerSessions/project_spatial/README.md">
