@@ -65,7 +65,7 @@ For the purposes of this course focus on lectures 8.1-8.7, 9.1-9.7, 10.3-10.7, 1
 
 For the complete course schedule please refer to:
 
-([Course Schedule](https://xiuquan0418.github.io/BioinfoSummerSessions/schedule.html))
+([Course Schedule](/schedule.html))
 
 
 <br/>

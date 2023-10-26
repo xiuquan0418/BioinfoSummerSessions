@@ -112,10 +112,10 @@ Your main goal will be to identify non-coding genomic regions where chromatin ac
 
 In the project folder, you will find a template Jupyter Notebook guiding you through the steps for the integration project:
 
-* Group 1: [`multiomics_unmatched.ipynb`](https://github.com/xiuquan0418/BioinfoSummerSessions/blob/main/project_omics/multiomics_unmatched.ipynb)
-* Group 2: [`multiomics_matched.ipynb`](https://github.com/xiuquan0418/BioinfoSummerSessions/blob/main/project_omics/multiomics_matched.ipynb)
+* Group 1: [`multiomics_unmatched.ipynb`](/blob/main/project_omics/multiomics_unmatched.ipynb)
+* Group 2: [`multiomics_matched.ipynb`](/blob/main/project_omics/multiomics_matched.ipynb)
 
-Because we will need to use both tools in R and in python, we provide an additional notebook illustrating how to use R code in jupyter environment using the [RPy2](https://rpy2.github.io/) framework - [`rpy2_interoperability_examples.ipynb`](https://github.com/xiuquan0418/BioinfoSummerSessions/blob/main/project_omics/rpy2_interoperability_examples.ipynb). 
+Because we will need to use both tools in R and in python, we provide an additional notebook illustrating how to use R code in jupyter environment using the [RPy2](https://rpy2.github.io/) framework - [`rpy2_interoperability_examples.ipynb`](/blob/main/project_omics/rpy2_interoperability_examples.ipynb). 
 
 <!-- 
 ### Milestone 1:

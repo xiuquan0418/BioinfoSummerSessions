@@ -100,7 +100,7 @@ from the `zellkonverter` package.
 
 We have provided conda recipies for some of the most common tools that you may
 want to use in the projects in this
-[folder](https://github.com/xiuquan0418/BioinfoSummerSessions/tree/main/project_spatial/conda/)
+[folder](/tree/main/project_spatial/conda/)
 
 If you are not familiar with conda, please have a look at the
 [Precourse_material](../precourse). There are separate environments for `R` and
