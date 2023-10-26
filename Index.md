@@ -13,6 +13,11 @@ The goal of this joint school is to provide PhD students and postdocs with theor
 
 [![Spatial transcriptomics](logos/spatial_transcriptomics.png)](/BioinfoSummerSessions/project_spatial/README.html)
 
+This is **markdown**.
+
+<div style="color: red;">This is HTML.</div>
+
+
 
 <div style="width:100%; height:150px; text-align: center">
 
