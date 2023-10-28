@@ -44,7 +44,7 @@ After taking those courses (or any other equivalent course in programming in bas
 
 ***
 
-## <img border="0" src="https://image.flaticon.com/icons/png/512/2111/2111615.png" width="20" height="20" style="vertical-align:middle;"> Slack
+## <img border="0" src="logos/logo_Slack.png" width="20" height="20" style="vertical-align:middle;"> Slack
 
 Make sure that you have **[Slack](https://slack.com/intl/en-se/downloads)** installed because we will use it a lot during the workshop. Communication, troubleshooting and group discussions will happen via **Slack workspace** `single-cellschool2021`. All accepted students will receive an invitation link via email. Please add this workspace to your Slack application on your desktop and do **NOT** use it in the web.
 
@@ -69,7 +69,7 @@ Previous Zoom versions will not work. If you already have Zoom installed, you ca
 
 ***
 
-## <img border="0" src="https://1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg" width="20" height="20" style="vertical-align:middle;"> AWS instance
+## <img border="0" src="logos/logo_AWS.png" width="20" height="20" style="vertical-align:middle;"> AWS instance
 
 You will be provided access to a cloud instance containing all necessary installations and computational infrastructure at the start of the course. To work on the cloud instance the only program you need will be a modern browser (i.e. Firefox, Edge, Chrome, Safari). You will connect either through **Rstudio server** or **Jupyter lab**. If you would like to work on your own computer, read the instructions on [installing dependencies with `conda` locally](#-conda) below (due to specific requirements the instructions below will **not** be sufficient for the projects on multi-omics and deep learning).
 
