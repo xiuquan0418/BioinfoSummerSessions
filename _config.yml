@@ -5,7 +5,7 @@ plugins:
   - jekyll-relative-links
 markdown: kramdown # support inline HTML # CommonMarkGhPages not support
 
-favicon_path: logos/favicon.ico
+favicon_path: ./logos/favicon.ico
 
 relative_links:
   enabled: true
