@@ -55,7 +55,7 @@ _Note Git commit good practices_
 https://xiuquan0418.github.io/BioinfoSummerSessions/
 
 #### Questions, feedback etc. 
-Create an issue or contact Åsa Björklund <asa.bjorklund@scilifelab.se>
+Create an issue or contact Dr. Wang <xwang@tougaloo.edu>
 
 
 ## [Back to main](README.md)

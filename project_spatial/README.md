@@ -1,13 +1,6 @@
 # <img border="0" src="../logos/spatial_transcriptomics.png" width="40" height="40" style="vertical-align:middle;"> Spatial Transcriptomics
 ***
 
-<br/>
-
-- __*Alma Andersson*__, KTH Royal Institute of Technology, Stockholm, 🇸🇪 Sweden
-- __*Åsa Björklund*__, National Bioinformatics Infrastructure (NBIS), 🇸🇪 Sweden
-
-<br/>
-
 ### Background
 
 Spatial transcriptomics (ST) allows for visualization and quantitative analysis

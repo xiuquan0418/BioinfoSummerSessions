@@ -1,13 +1,6 @@
 # <img border="0" src="../logos/omics_integration.png" width="40" height="40" style="vertical-align:middle;"> Omics Integration
 ***
 
-<br/>
-
-- __*Emma Dann*__, Wellcome Sanger Institute, Cambridge, 🇬🇧 United Kingdom
-- __*Charlotte Soneson*__, Friedrich Miescher Institute, SIB/Basel, 🇨🇭 Switzerland
-
-<br/>
-
 ### Background
 
 Corticogenesis is the dynamic process that results in the formation of the cerebral cortex, and is characterized by the generation of excitatory glutamatergic neurons from cortical progenitors, and the differentiation of astrocytes and oligodendrocytes. Dynamic changes in the activity of cis-regulatory DNA elements underlie the complex phenotypic transformations that occur during development.

@@ -1,11 +1,6 @@
 # <img border="0" src="../logos/rna_velocity.png" width="40" height="40" style="vertical-align:middle;"> RNA velocity
 ***
 
-<br/>
-
-- __*Volker Bergen*__, Institute of Computational Biology, Munich, 🇩🇪 Germany
-- __*Paulo Czarnewski*__, National Bioinformatics Infrastructure (NBIS), 🇸🇪 Sweden
-
 
 ### Background
 
