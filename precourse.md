@@ -161,7 +161,7 @@ Replace `[FILENAME]` with the exact filename you want to download, and replace `
 
 During this workshop, you can use conda environments to run the exercises (see **AWS instance** if you want to use the cloud-based solution). This is because conda environments allow all users to have the same computing environment, i.e. package versions. This enforces reproducibility for you to run this material without the need to re-install or change your local versions. See and graphical example below:
 
-<img border="0" src="https://nbisweden.github.io/excelerate-scRNAseq/logos/conda_illustration.png" width="400">
+<img border="0" src="logos/conda_illustration.png" width="400">
 
 <br/>
 
@@ -188,7 +188,7 @@ Start by installing Conda. We suggest installing **Miniconda3** and NOT Anaconda
   <summary markdown="span"><b>On Mac OS X</b></summary>
   <br/>
   <div style="padding: 5px; background-color: #F2F2F2; margin: 0px 10px; border-left: 10px solid #ddd; markdown: span" >
-  <img border="0" src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" width="40" height="40" style="vertical-align:middle;">
+  <img border="0" src="logos/apple-mac-os-logo.png" width="40" height="40" style="vertical-align:middle;">
 
 
   First, make sure you have Xcode and CommandLineTools installed and updated to latest version (in AppStore). If you have not already installed CommadLineTools, go to a terminal window and run:
