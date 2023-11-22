@@ -46,7 +46,7 @@ After taking those courses (or any other equivalent course in programming in bas
 
 ## <img border="0" src="logos/logo_Slack.png" width="20" height="20" style="vertical-align:middle;"> Slack
 
-Make sure that you have **[Slack](https://slack.com/intl/en-se/downloads)** installed because we will use it a lot during the workshop. Communication, troubleshooting and group discussions will happen via **Slack workspace** `single-cellschool2021`. All accepted students will receive an invitation link via email. Please add this workspace to your Slack application on your desktop and do **NOT** use it in the web.
+Make sure that you have **[Slack](https://slack.com/intl/en-se/downloads)** installed because we will use it a lot during the workshop. Communication, troubleshooting and group discussions will happen via **Slack workspace** `single-cellschool`. All accepted students will receive an invitation link via email. Please add this workspace to your Slack application on your desktop and do **NOT** use it in the web.
 
 Please join the following channels once you are in the workspace:
 
@@ -108,7 +108,7 @@ After this, you can install additional python packages in this virtual environme
 
 ### Jupyter notebook
 
-With the jupyter notebook interface you can do most of the python-based analyses (e.g. based on python notebook (`.ipynb`) files). The software is installed in a `conda` environment. The environment for the general exercises is called `scRNASeq2021`. You can use this environment in a python notebook by selecting the right kernel. You can add installations to the environment by using the terminal (e.g. with `conda install mypackage`). You can also create new environments.  
+With the jupyter notebook interface you can do most of the python-based analyses (e.g. based on python notebook (`.ipynb`) files). The software is installed in a `conda` environment. The environment for the general exercises is called `scRNASeq`. You can use this environment in a python notebook by selecting the right kernel. You can add installations to the environment by using the terminal (e.g. with `conda install mypackage`). You can also create new environments.  
 
 ### Download data using S3
 
@@ -352,7 +352,7 @@ It is recommended that you INSTALL the program and not use the portable version.
 To download the `environment_scRNAseq.yml` file using the command on Terminal:
 
 ```
-curl -o environment_scRNAseq2021.yml https://raw.githubusercontent.com/xiuquan0418/BioinfoSummerSessions/main/environment_scRNAseq.yml
+curl -o environment_scRNAseq.yml https://raw.githubusercontent.com/xiuquan0418/BioinfoSummerSessions/main/environment_scRNAseq.yml
 ```
 
 After this, you should have a file named `environment_scRNAseq.yml` in your directory (it does not matter where). Next, type:

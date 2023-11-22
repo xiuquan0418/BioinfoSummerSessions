@@ -1,8 +1,8 @@
 ## conda requirements for all packages needed to run the scanpy tutorials
-# install with:  mamba env create -n scRNAseq2021 -f environment.yml
-# or  with:  conda env create -n scRNAseq2021 -f environment.yml
-# then run: source activate scRNAseq2021
-name: scRNAseq2021
+# install with:  mamba env create -n scRNAseq -f environment.yml
+# or  with:  conda env create -n scRNAseq -f environment.yml
+# then run: source activate scRNAseq
+name: scRNAseq
 
 channels:
  - conda-forge
